@@ -1,3 +1,4 @@
+# Payoff matrix for Player 1
 payoff_matrix = {
     "X": {"A": 3, "B": 2},
     "Y": {"A": 4, "B": 1}
